@@ -1,5 +1,0 @@
-{{#user}
-Name: Md. Abdullah Rifat Khan
-Skills: HTML, CSS, JS, React, Nodejs, Express, MongoDB, Next.js, Prisma
-Email: rifat6633@gmail.com
-{{/user}}
